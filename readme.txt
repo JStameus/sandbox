@@ -72,6 +72,6 @@ When creating a new article, make sure you create the html file in the correct f
 Then, to make it easier to keep the wiki clean, use an article template for your article, instead of 
 writing the whole thing from scratch! For example, if you want to create a new vegetable, copy all the code 
 from template_article_veggies.html into your new file, and use it as a baseline. You can of course create your 
-own tags and add things, if you
+own tags and add things, if you want!
 
 --------------------------------------------------------
