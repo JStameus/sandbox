@@ -1,4 +1,4 @@
----WELCOME TO THE SANDBOX---
+-----WELCOME TO THE SANDBOX-----
 
 Hello there! This is the sandbox repository. I can use this space to practice and make little 
 hobby projects while I learn how to become a web developer. 
@@ -8,9 +8,9 @@ may be scrapped when I feel that I no longer need them, or when I want to start 
 if I just happen to make something I'm actually proud of, I'm sure I'll find a way to move it somewhere
 a little more permanent. 
 
-----------------------------
+--------------------------------------------------------
 
----THE SANDBOX WIKI---
+-----HOW TO USE THE SANDBOX WIKI-----
 
 The Sandbox Wiki is the current project here on the Sandbox repository. It's a collection
 of silly, irrelevant or useless, loosely categorized articles, for the purpose of practicing
@@ -25,18 +25,6 @@ Oh, and don't feed Larry.
 
 Please.
 
-[Naming Convention]
-The naming convention, for all files, should be as consistent and clear as possible. Since the
-entire wiki is organized in a hierarchy, the name for each file should be simple enough to 
-figure out. First, specify the file type, such as: 
-    - image_ 
-    - article_
-    - template_
-    - category_
-
-(NOTE: At the time of writing, I haven't set this up properly! I'll get to it soon, so that new collaborators 
-can easily join in without getting confused.)
-
 [Wiki Contents & Structure]
 Currently, the Wiki has five categories: Memes, Animals, Veggies, Dinosaurs and Arcana.
 As the project expands, these categories may be expanded upon, or new categories could be added.
@@ -48,4 +36,42 @@ When adding new sub-categories, please make sure the style is consistent with th
 For example, if one category is displayed with a <h2> tag, don't make a new one with an <h3> tag or
 something else like that. Keep it consistent! 
 
---------------------
+[Naming Convention]
+The naming convention, for all files, should be as consistent and clear as possible. Since the
+entire wiki is organized in a hierarchy, the name for each file should be simple enough to 
+figure out. Here are some examples of how to name a file. First, specify the file type: 
+    - img_ 
+    - article_
+    - template_
+    - category_
+
+then, the category:
+    - _animals
+    - _arcana
+    - _dinosaurs
+    - _memes
+    - _veggies
+
+followed by the sub-category:
+    - _ratpack
+    - _artifacts
+    - _tubers
+    - _frogmemes
+
+and lastly, the name and the proper file extension:
+    - _larry.html
+    - _spellbook.jpg
+    - _notes.txt
+
+Sticking to this naming convention makes it MUCH easier to write in the correct links and adding the new files 
+with Git when you're ready to upload, so make sure you get it right and check your spelling! If you're unsure,
+ask JStameus, the Wiki owner, for help. 
+
+[Creating New Articles]
+When creating a new article, make sure you create the html file in the correct folder, with the correct name.
+Then, to make it easier to keep the wiki clean, use an article template for your article, instead of 
+writing the whole thing from scratch! For example, if you want to create a new vegetable, copy all the code 
+from template_article_veggies.html into your new file, and use it as a baseline. You can of course create your 
+own tags and add things, if you
+
+--------------------------------------------------------
