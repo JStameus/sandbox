@@ -74,4 +74,11 @@ writing the whole thing from scratch! For example, if you want to create a new v
 from template_article_veggies.html into your new file, and use it as a baseline. You can of course create your 
 own tags and add things, if you want!
 
+[Viewing The Wiki]
+As we haven't learned how to upload our websites yet, the Wiki can only be viewed locally. So, if you want
+to get the latest updates and articles, remember to keep your local copy of the Wiki up to date by pulling
+from the master branch of the original repository whenever you can. If you haven't already, install the Live 
+Server extension for Visual Studio Code, so you can view the local copy of the Wiki as if it were a real 
+website! It's neat!
+
 --------------------------------------------------------
