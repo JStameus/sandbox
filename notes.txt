@@ -1,0 +1,28 @@
+//border-radius
+What does this do? It looks like it's creating another border?
+
+//figures
+What's a quick way to make figures appear on the same line?
+
+//figcaptions
+How to I make my text fit inside a specified area so that it doesn't 
+move that citation at the bottom of the card? 
+
+//display: inline-block
+My cards are now next to each other, but the green one is slightly lower?
+Why is this happening? EDIT: Adding more text to the caption "fixed" it. What?
+
+//general
+I'm getting a lot of different selectors in my stylesheet now. How do I clean this up?
+Do I create different css files for different things?
+
+//HTML editor
+Is there a way to quickly generate elements with preset attributes?
+For example, I'm creating a lot of figures with similar contents, including
+images with the same preset height and width. Can I save these settings
+and quickly generate these figures instead of doing it manually?
+
+//box color/vignette
+I created a sweet vignette effect in the body, but it has clearly visible edges. 
+How do I apply an effect to the entire window? EDIT: By putting it in :root. But 
+something tells me that it's nasty to put stuff there. Should I put it elsewhere?
