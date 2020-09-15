@@ -29,6 +29,7 @@ p {
 }
 #p_intro {
     text-align: center;
+    border: 2px solid var(--trim-color);
 }
 figure {
     width: 150px;
