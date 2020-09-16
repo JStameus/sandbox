@@ -5,6 +5,7 @@
     --text-color:  rgb(199, 195, 164);
     --glow-color: rgb(187, 173, 103);
     --faint-glow-color: rgba(128, 120, 81, 0.322);
+    --active-glow-color: rgba(241, 142, 30, 0.5);
     box-shadow: inset 0 0 50px var(--faint-glow-color); 
 }
 body {
@@ -44,6 +45,11 @@ figure {
 }
 figure:hover {
     box-shadow: 0 0 20px var(--glow-color);
+    transition: 0.1s;
+}
+
+figure:active {
+    box-shadow: 0 0 30px var(--active-glow-color);
     transition: 0.1s;
 }
 figcaption {
