@@ -42,3 +42,9 @@ Sections and articles REQUIRE a heading(h1, h2 etc). If you have a "section" tha
 have a heading, use div instead. It's possible to use section without a heading, but it won't
 validate. Remember: It's OK to use divs right in main, you don't have to use semantic elements
 at the top. Just make sure to give your higher-level divs a proper id and it's all gucci!
+
+//Git 
+Instead of writing --all when staging files, use *. You can also put file extensions(or anything, really)
+after *, to include ALL files that end with what you put it. For example, "git add *.html" will add
+all files that end with .html. You can also do this the other way around, such as "git add IMG_*" to 
+add all files that begin with IMG_. 
