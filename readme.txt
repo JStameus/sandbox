@@ -10,8 +10,4 @@ a little more permanent.
 
 --------------------------------------------------------
 
----CSS PRACTICE---
-
-Currently working on a webpage to try out some neat CSS stuff, hopefully it'll
-feel "alive" and interactive even without any JavaScript. I have no idea what the 
-end result will be. I'm just goofing around at the moment.
+---NOTHING IN PARTICULAR IS GOING ON HERE AT THE MOMENT---
