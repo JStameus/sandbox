@@ -10,7 +10,8 @@ a little more permanent.
 
 --------------------------------------------------------
 
----CARD DECK!---
+---JSON PRACTICE: LOOT TABLES---
 
-I'm trying to make a simple card deck thingy, which will use some simple Javascript code to generate cards with different stats, and display them on
-the "board" using CSS styling that handles the positioning of card numbers, icons and such automatically.
+I'm learning how to use JSON files. For this little project, I'll try using JSON files to store data about
+"loot tables" and their contents, and use them with some JavaScript code and CSS to display a random list
+of items with unique properties depending on which loot table I'm rolling. 
