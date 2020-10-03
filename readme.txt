@@ -10,4 +10,7 @@ a little more permanent.
 
 --------------------------------------------------------
 
----NOTHING IN PARTICULAR IS GOING ON HERE AT THE MOMENT---
+---CARD DECK!---
+
+I'm trying to make a simple card deck thingy, which will use some simple Javascript code to generate cards with different stats, and display them on
+the "board" using CSS styling that handles the positioning of card numbers, icons and such automatically.
