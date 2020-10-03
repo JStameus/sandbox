@@ -1,0 +1,32 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+#window_main {
+    background-color: rgb(114, 114, 114);
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    box-shadow: inset 0 0 12px 6px black;
+}
+
+#window_top {
+    background-color: rgb(100, 100, 100);
+    display: flex;
+    justify-content: space-around;
+    border-radius: 8px;
+    border: 2px solid rgb(156, 146, 87);
+    padding: 8px;
+}
+
+#window_list {
+    background-color: rgb(100, 100, 100);
+    border: 2px solid rgb(156, 146, 87);
+    border-radius: 8px;
+    padding: 8px;
+}

@@ -1,0 +1,28 @@
+{
+    "table01": {
+        "name": "lootbag",
+        "items": [
+            {
+                "itemName": "Pebbleweb",
+                "itemDescription": "A small collection of pebbles held together by thin artificial veins. Useless.",
+                "itemValue": 2,
+                "itemQuality": "Trash",
+                "itemRarity": 7
+            },
+            {
+                "itemName": "Dormant Cluster Seed",
+                "itemDescription": "An unformed Cluster Node, waiting to be hatched. Unusable without a Warder, but could be of some value if sold to a vendor.",
+                "itemValue": 10,
+                "itemQuality": "Common",
+                "itemRarity": 20
+            },
+            {
+                "itemName": "Salvaged Engine Part",
+                "itemDescription": "A small piece of a broken down engine. It probably won't work again, but it could contain some useful components.",
+                "itemValue": 26,
+                "itemQuality": "Common",
+                "itemRarity": 32
+            }
+        ]
+    }
+}
